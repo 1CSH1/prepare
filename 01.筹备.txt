@@ -9,6 +9,8 @@ http://pan.baidu.com/s/1kVsMk6b
 缓存框架：Ehcache、Memcached、Redis(三者比较的博客：http://blog.csdn.net/jationxiaozi/article/details/8509732)
 消息队列框架：RabbitMQ
 工作流框架：JBPM、Activiti
+权限框架：Shiro、Spring Security
+搜索框架：Lucene、Solr
 
 --前端
 bootstrap
@@ -65,6 +67,10 @@ txt生成导入导出
 http发送请求类
 定时任务
 解压缩
+地图服务
+报表工具类 Echarts,JFreechart
+日志管理类 log4j
+
 。。。等等
 
 
