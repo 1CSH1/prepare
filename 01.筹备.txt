@@ -44,7 +44,7 @@ boostrap + angular
 
 --基础功能
 分页基类
-Dao层基类
+Dao层基类(MyBatis有框架Mapper)
 Service层基类
 Controller层基础类
 
@@ -55,7 +55,7 @@ json转换工具类
 xml转换工具类
 邮件发送工具类
 短信发送工具类
-分页工具类
+分页工具类(MyBatis分页插件 PageHelper Starter)  --CSH
 日期格式转换工具类
 文件上传下载
 pdf生成导入导出
@@ -64,7 +64,7 @@ txt生成导入导出
 二维码生成工具类
 条形码生成工具类
 图片压缩工具类
-http发送请求类
+http发送请求类   --CSH
 定时任务
 解压缩
 地图服务
@@ -79,6 +79,7 @@ http发送请求类
 分页模块
 上传下载文件模块
 日期控件
+编辑器控件
 。。。等等
 
 
