@@ -53,7 +53,7 @@ Controller层基础类
 (实现这些基础功能要着重考虑应用场景，抽象出通用的功能点)
 json转换工具类
 xml转换工具类
-邮件发送工具类
+邮件发送工具类   --CSH
 短信发送工具类
 分页工具类(MyBatis分页插件 PageHelper Starter)  --CSH
 日期格式转换工具类
